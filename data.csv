@@ -1,4 +1,6 @@
 Title,Address,Latitude,Longitude,Found Address,Match Quality,Source
-Trinity College,"300 Summit St, Hartford CT 06106",41.745167,-72.69263,"300 SUMMIT ST, HARTFORD, CT, 06106",Exact,US Census
-Capital Community College,950 Main St Hartford CT 06103,41.768074,-72.673065,"950 MAIN ST, HARTFORD, CT, 06103",Exact,US Census
-University of Hartford,"200 Bloomfield Ave, West Hartford CT 06117",41.794655,-72.71764,"200 BLOOMFIELD AVE, WEST HARTFORD, CT, 06117",Exact,US Census
+Clarksville Montgomery County Public Library,"350 Pageant Ln #501, Clarksville, TN 37040",36.5207876,-87.3409037,"350 Pageant Ln #501, Clarksville, TN 37040, USA",Match,Google
+Clarksville City Hall,"1 Public Square, Clarksville TN 37040",36.5277038,-87.3608002,"1 Public Square, Clarksville, TN 37040, USA",Match,Google
+"Fort Campbell Army Base
+","849 Georgia Ave, Fort Campbell KY 42223",36.631653,-87.44021,"849 GEORGIA AVE, FORT CAMPBELL, KY, 42223",Exact,US Census
+Austin Peay State University,"601 College St, Clarksville, TN 37044",36.53098,-87.35593,"601 COLLEGE ST, CLARKSVILLE, TN, 37044",Exact,US Census
